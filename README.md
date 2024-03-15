@@ -4,4 +4,4 @@ Material Icons web picker, preview a box of all defined icons, can be delegated 
 Material Icons link:
 https://fonts.google.com/icons
 
-NOTE: This library has parts from another author, I forgot who, if you know let me know to point credit.
+NOTE: This library has parts from another author, I forgot who, buzz if you know him/her to point credit.
